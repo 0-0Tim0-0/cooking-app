@@ -1,0 +1,8 @@
+<Routes>
+      <Route path="/" element={<MenuPage/>} />
+      <Route path="/post" element={<PostDetailPage/>} />
+      <Route path="/categories" element={<CategoriesPage/>} />
+      <Route path="/catehory/posts" element={<PostByCategoriesPage/>} />
+    </Routes> 
+
+
